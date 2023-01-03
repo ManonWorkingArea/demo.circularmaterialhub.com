@@ -12,3 +12,4 @@ $data['setting']['folder']					=	"";
 $data['setting']['controller']	=	"home";
 
 ?>
+
