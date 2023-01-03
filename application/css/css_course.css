@@ -1,0 +1,270 @@
+.fwdevp-annotation-js-normal-edit {
+    font-family: Roboto, Arial !important;
+    font-size: 13px !important;
+    width: 320px !important;
+    font-weight: 300 !important;
+    width: 343px !important;
+    line-height: 16px !important;
+    padding: 0px 0px 0px 10px !important;
+    color: #343a4070 !important;
+}
+
+.content-price
+{
+    padding-bottom: 20px;
+}
+
+.price
+{
+  font-size: 24px;
+}
+
+.sale-price
+{
+  font-size: 30px;
+}
+
+#preview_video .modal-content
+{
+  width: 100%;
+  height: 100%;
+}
+
+#preview_video .modal-body {
+  padding: 0px;
+}
+
+#preview_video .modal-top {
+  margin-bottom: 0px;
+  padding: 15px 15px 15px 15px;
+}
+
+.continue_btn{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.continue_name_btn{
+  display: block;
+  height: 20px;
+  line-height: 12px;
+  position: relative;
+  top: 0px;
+  font-size: 12px;
+  color: rgb(255 255 255 / 0.5);
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.continue_title_btn
+{
+  font-size: 20px;
+}
+
+.certified_name_btn {
+    display: block;
+    height: 20px;
+    line-height: 12px;
+    position: relative;
+    top: 0px;
+    font-size: 12px;
+    color: #343a40;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.cert-hidden{
+  display: none;
+}
+
+.cert-active{
+
+}
+
+.cert-unactive{
+  color: #b9b9b9;
+  background-color: #f8f9fa;
+  border-color: #eee;
+}
+
+.cert-unactive:hover:focus:active{
+  color: #ccc!important;
+  background-color: #eee!important;
+  border-color: #dee2e6!important;
+}
+
+.cert-unactive .certified_name_btn{
+  color: #b9b9b9;
+}
+
+.message-body
+{
+  cursor: pointer;
+}
+
+.comment-admin {
+  border-top: 1px solid #e0e0e0!important;
+  border-bottom: 1px solid #e0e0e0!important;
+  background: #f8f9fa!important;
+  padding-left: 70px!important;
+}
+
+.comment-admin-icon{
+  top: 35px;
+  float: left;
+  position: absolute;
+  width: 50px;
+  left: 5px;
+}
+
+.question-answer-wrap .comment__author_admin a {
+    color: #DF3545;
+}
+
+.course-detail .card-header {
+  width: 100%;
+  height: 80px;
+  vertical-align: middle;
+  display: table;
+  padding: 10px;
+}
+
+.course-detail .card-header h2  {
+  font-size: 15px;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.course-detail .card-body {
+  padding: 0px;
+  margin-bottom: 20px;
+  float: left;
+}
+
+.cover-title {
+  display: block;
+  line-height: 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #000;
+  font-weight: 500;
+  float: left;
+  width: 100%;
+}
+
+.cover-demo {
+  color: #28a745;
+}
+
+.cover-thumbnail
+{
+  width: 100%;
+  height: 100%;
+  float: left;
+  display: block;
+  position: relative;
+}
+
+.cover-duration {
+  display: block;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: bold;
+  background: #3e3e3e;
+  width: 110px;
+  height: 30px;
+  float: left;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+  border-radius: 6px;
+  letter-spacing: 1px;
+}
+
+.status-label {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  /* height: 40px; */
+  display: block;
+  background: #233d63;
+  line-height: 20px;
+  font-size: 14px;
+  color: #fff;
+  padding-top: 9px;
+  padding-bottom: 5px;
+  min-height: 60px;
+}
+
+.status-label-demo {
+  background: #28a745;
+}
+
+.sidebar-component {
+  position: relative;
+  z-index: 3;
+  margin-top: -200px;
+}
+
+.preview-course-content {
+  padding: 30px 30px 0px 30px;
+  border-top: 0;
+}
+
+.modal-dialog-video {
+    max-width: 540px;
+}
+
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.progress {
+  height: 5px;
+}
+
+.progress-bar {
+  height: 5px;
+}
+
+.progress-label {
+  position: absolute;
+  color: #ffffff;
+  bottom: 10px;
+  top: unset;
+  font-size: 12px;
+  background: #b90000;
+  height: 21px;
+  line-height: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.progress-label:after {
+  content: '';
+  position: absolute;
+  left: 40px;
+  top: 21px;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #b90000;
+  clear: both;
+}
+
+.procress-label {
+  position: absolute;
+  bottom: 15px;
+  right: 0;
+  top: unset;
+  height: 21px;
+}
+
+.course-inactive{
+  opacity: 0.5;
+}

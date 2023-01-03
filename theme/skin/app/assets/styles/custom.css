@@ -1,0 +1,37 @@
+.page-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.header-logo-center .header-title {
+    left: unset;
+    margin-left: unset;
+    text-align: center;
+    width: 100%;
+}
+
+#footer-bar a.active {
+    color: #dc3545;
+}
+
+.img-responsive
+{
+    width: 100%;
+}
+
+.cookiealert {
+    height: 180px;
+}
+
+.cookiealert .acceptcookies {
+    margin-left: 10px;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.pagination {
+    align-items: center;
+    justify-content: center;
+}

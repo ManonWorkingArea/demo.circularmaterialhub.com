@@ -1,0 +1,24 @@
+.avatar--md .avatar__content img{
+  width:100px;
+  height:100px;
+}
+
+.table td, .table th {
+  padding: .4rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+
+.form-check-inline .custom-control {
+  padding-left: 0rem;
+  left: 0px;
+  top: -12px;
+}
+
+ .form-check-inline .custom-control-label {
+   left: 0px;
+ }
+
+ .custom-checkbox .custom-control-input:checked~.custom-control-label::after {
+     background-image: url(unset);
+ }

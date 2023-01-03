@@ -1,0 +1,27 @@
+.profile-sidebar
+{
+    padding-top: 40px!important;
+    padding-bottom: 0px!important;
+	padding-right: 0px!important;
+}
+
+.profile-sidebar ul.sidebar-menu>li>a
+{
+    font-size: 15px;
+}
+
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.question-text
+{
+  font-size: 14px;
+}
+
+[dir=ltr] .quiz-special
+{
+  background: #5566ff;
+  color: #fff;
+}

@@ -1,0 +1,10 @@
+16/11/2015: (version 1.2)
+- Fixed: Close button
+- Added: Language option for chat box
+
+
+14/11/2015: (version 1.1)
+- Fix some small bugs
+
+11/11/2015: (version 1.0)
+- Version 1.0 Initial Release

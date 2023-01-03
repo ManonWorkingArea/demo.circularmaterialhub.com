@@ -1,0 +1,11 @@
+.section--padding {
+    padding-top: 70px;
+    padding-bottom: 90px;
+}
+
+.toggle-password
+{
+    position: absolute;
+    right: 10px;
+    margin-top: -33px;
+}

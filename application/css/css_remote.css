@@ -1,0 +1,31 @@
+.content-calendar {
+    margin: 20px 15px 0px 15px;
+}
+
+.cal-schedule strong {
+    color: #000;
+    display: block;
+    padding: 17px 0px 0px 15px;
+    font-size: 14px;
+}
+
+.cal-schedule span i {
+    width: 35px;
+    display: inline-block;
+    text-align: center;
+    padding: 0px 0px 0px 5px;
+}
+
+.cal-schedule span {
+    display: block;
+    font-size: 14px;
+    color: #adb5bd;
+    margin-top: 0px;
+}
+
+.content-calendar h1 {
+    font-size: 24px;
+    line-height: 30px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
