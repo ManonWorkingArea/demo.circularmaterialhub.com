@@ -65,7 +65,7 @@
                         <div class="menu-wrapper">
                             <nav class="main-menu">
                                 <ul>
-                                    <li id="page-guidelines-menu"><a href="page/view/guidelines">หลักเกณฑ์ Eco Factory</a></li>
+                                    <li id="page-guidelines-menu"><a href="page/view/guidelines">หลักเกณฑ์ CMH</a></li>
                                     <li id="page-benefits-menu"><a href="page/view/benefits">สิทธิประโยชน์</a></li>
                                     <li id="page-procedure-menu"><a href="page/view/procedure">ขั้นตอนและตารางประชุม</a></li>
                                     <li id="page-news-menu"><a href="page/view/news">ประชาสัมพันธ์</a></li>
