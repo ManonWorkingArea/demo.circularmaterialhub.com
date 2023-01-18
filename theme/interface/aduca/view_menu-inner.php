@@ -8,8 +8,8 @@
                 <div class="col-lg-6">
                     <div class="header-widget">
                         <ul class="header-action-list">
-                            <li><a href="#"><span class="la la-phone mr-2"></span>02-345-1257, 02-345-1267</a></li>
-                            <li><a href="#"><span class="la la-envelope-o mr-2"></span>ecofactory.fti@gmail.com</a></li>
+                            <li><a href="#"><span class="la la-phone mr-2"></span>123456789</a></li>
+                            <li><a href="#"><span class="la la-envelope-o mr-2"></span>info@circularmaterialhub.com</a></li>
                         </ul>
                     </div>
                 </div>
@@ -66,10 +66,6 @@
                             <nav class="main-menu">
                                 <ul>
                                     <li id="page-guidelines-menu"><a href="page/view/guidelines">หลักเกณฑ์ CMH</a></li>
-                                    <li id="page-benefits-menu"><a href="page/view/benefits">สิทธิประโยชน์</a></li>
-                                    <li id="page-procedure-menu"><a href="page/view/procedure">ขั้นตอนและตารางประชุม</a></li>
-                                    <li id="page-news-menu"><a href="page/view/news">ประชาสัมพันธ์</a></li>
-                                    <li id="course-index-menu"><a href="course">เรียนออนไลน์</a></li>
                                 </ul>
                             </nav>
 
@@ -91,10 +87,6 @@
                         <div class="menu-wrapper">
                             <nav class="main-menu">
                                 <ul>
-                                    <li id="page-download-menu"><a href="page/view/download">ดาวน์โหลดเอกสาร</a></li>
-                                    <li id="page-certified_verifier-menu"><a href="page/view/certified_verifier">รายชื่อที่ปรึกษา</a></li>
-                                    <li id="page-certified_auditor-menu"><a href="page/view/certified_auditor">รายชื่อผู้ตรวจประเมิน</a></li>
-                                    <li id="page-certified_factory-menu"><a href="page/view/certified_factory">รายชื่อโรงงานที่ได้รับการรับรอง</a></li>
                                     <!-- <?php if(isset($_SESSION["Student"]) && $_SESSION["Student"]["login"]): ?>
                                     <li><a href="student/course">หลักสูตรของผู้ใช้</a></li>
                                     <?php else: ?>
